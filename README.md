@@ -41,7 +41,7 @@ Este enfoque permite razonar sobre el sistema sin ejecutar la app y trasladar er
 
 ## Documentación
 
-Todo el material conceptual vive en [`Docs/`](Docs/README.md), incluyendo:
+Todo el material conceptual vive en [`Docs/`](StateGoverned/Docs/README.md), incluyendo:
 
 - **ARCHITECTURE.md**  
   Decisiones arquitectónicas fundamentales y trade-offs asumidos.
